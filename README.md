@@ -14,4 +14,4 @@ The necessary data is located in the `Data` folder and includes both a cleaned d
 The necessary scripts to clean the data (if you use the original dataset) and run the trend analysis is in the `Scripts` folder. 
 
 ## Reference Materials
-The "Reference Materials" folder contains helpful resources related to the context of the project and tips for time-series trend analysis. 
+The `Reference Materials` folder contains helpful resources related to the context of the project and tips for time-series trend analysis. 
