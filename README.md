@@ -9,5 +9,9 @@ The two attached PDFs include both the Hook for the case study as well as a Rubr
 ## Data
 The necessary data is located in the `Data` folder and includes both a cleaned dataset to be used for your analysis as well as the original and complete dataset.
 
+## Scripts
+
+The necessary scripts to clean the data (if you use the original dataset) and run the trend analysis. 
+
 ## Reference Materials
 The "Reference Materials" folder contains helpful resources related to the context of the project and tips for time-series trend analysis. 
